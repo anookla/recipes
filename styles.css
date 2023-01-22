@@ -1,3 +1,14 @@
 .image-width {
     width: 200px;
 }
+
+/* color, background color, typography properties,  */
+
+head,
+body
+ {
+    background-color: aqua;
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem ;
+}
